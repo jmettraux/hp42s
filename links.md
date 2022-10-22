@@ -15,5 +15,7 @@ Links about the HP-42s and its descendants.
 * [Long Live the HP42S !](http://www.hpcc.org/datafile/V23N6/LongLiveTheHP42S.pdf) — beautiful 8 queens program
 * [Program Encapsulation on the HP-42S](https://archived.hpcalc.org/hp42s/articles/program_encapsulation.pdf) — saving the stack
 
-* [FOCAL character set](https://en.wikipedia.org/wiki/FOCAL_character_set)
+* [FOCAL character set](https://en.wikipedia.org/wiki/FOCAL_character_set) —  not ASCII
+
+* [DM42 Programming toll](https://technical.swissmicros.com/decoders/dm42/index.php) — .raw to .hp42 and back conversions
 
