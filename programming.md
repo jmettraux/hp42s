@@ -53,3 +53,7 @@ Replaces `x` with `|x|`.
 
 Turns on pixel at `(x, y)`.
 
+### STO+ _var_ ← `x`
+
+STOres in _var_ the value of _var_ + `x`.
+

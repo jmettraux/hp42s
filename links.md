@@ -5,6 +5,7 @@ Links about the HP-42s and its descendants.
 
 
 * [HP-42S Programming Examples & Techniques](https://literature.hpcalc.org/community/hp42s-prog-en.pdf) — Edition 1, July 1988
+* [HP-42S Aligments and Offsets](https://literature.hpcalc.org/community/hp42s-alignoffset.pdf) — Ted J. Kerber, 1990
 
 * [Free42: An HP-42S Calculator Simulator](https://thomasokken.com/free42/) — lowest common denominator in our age
 * [Plus42: An Enhanced HP-42S Calculator Simulator](https://thomasokken.com/free42/) — more Free42
@@ -18,4 +19,5 @@ Links about the HP-42s and its descendants.
 * [FOCAL character set](https://en.wikipedia.org/wiki/FOCAL_character_set) —  not ASCII
 
 * [DM42 Programming toll](https://technical.swissmicros.com/decoders/dm42/index.php) — .raw to .hp42 and back conversions
+* [DM42 Display Control Tutorial](https://www.hpmuseum.org/forum/thread-10387-post-93808.html) — use the DM42 display at its best
 
